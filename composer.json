@@ -3,7 +3,6 @@
      "type": "library",
     "description": "Demo package for Module Install.",
      "keywords": ["laravel", "demo"],
-    
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +10,7 @@
             "email": "bindeshpandya.iipl@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+ 
     "require": {},
      "autoload-dev": {
         "classmap": [
