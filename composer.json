@@ -3,7 +3,7 @@
      "type": "library",
     "description": "Demo package for Module Install.",
      "keywords": ["laravel", "demo"],
-     "homepage": "https://github.com/Seldaek/monolog",
+     "homepage": "https://gitlab.com/bindeshpandya.iipl/",
     "license": "MIT",
     "authors": [
         {
