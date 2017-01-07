@@ -1,6 +1,7 @@
 {
     "name": "test/Bleh",
     "description": "Demo package for Module Install.",
+    "type": "library",
     "keywords": ["laravel", "demo"],
     "license": "MIT",
     "authors": [
