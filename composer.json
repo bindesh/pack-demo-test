@@ -1,5 +1,5 @@
 {
-    "name": "pack-demo-test/bleh",
+    "name": "packdemotest/bleh",
      "type": "library",
     "description": "Demo package for Module Install.",
      "keywords": ["laravel", "demo"],
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "test\\Bleh\\": "src/"
+            "packdemotest\\bleh\\": "src/"
         }
     }
 }
