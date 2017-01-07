@@ -1,6 +1,6 @@
 <?php
 
-namespace DemoPackage\Bleh;
+namespace packdemotest\bleh;
 
 class Bleh {
 
