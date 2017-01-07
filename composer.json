@@ -1,0 +1,22 @@
+{
+    "name": "test/Bleh",
+    "description": "Demo package for Module Install.",
+    "keywords": ["laravel", "demo"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bindesh",
+            "email": "bindeshpandya.iipl@gmail.com"
+        }
+    ],
+    "autoload-dev": {
+        "classmap": [
+            "src/Bleh.php"
+        ]
+    },
+    "autoload": {
+        "psr-4": {
+            "test\\Bleh\\": "src/"
+        }
+    }
+}
