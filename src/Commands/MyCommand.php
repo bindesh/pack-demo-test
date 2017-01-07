@@ -1,6 +1,6 @@
 <?php
 
-namespace DemoPackage\Bleh\Commands;
+namespace packdemotest\bleh\Commands;
 
 use Illuminate\Console\Command;
 
