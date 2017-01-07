@@ -1,8 +1,9 @@
 {
     "name": "test/Bleh",
+     "type": "library",
     "description": "Demo package for Module Install.",
-    "type": "library",
-    "keywords": ["laravel", "demo"],
+     "keywords": ["laravel", "demo"],
+     "homepage": "https://github.com/Seldaek/monolog",
     "license": "MIT",
     "authors": [
         {
