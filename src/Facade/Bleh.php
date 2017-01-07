@@ -1,4 +1,4 @@
-<?php namespace DemoPackage\Bleh\Facade;
+<?php namespace packdemotest\bleh\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
