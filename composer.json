@@ -1,5 +1,5 @@
 {
-    "name": "test/bleh",
+    "name": "pack-demo-test/bleh",
      "type": "library",
     "description": "Demo package for Module Install.",
      "keywords": ["laravel", "demo"],
