@@ -1,5 +1,5 @@
 <?php
 
-Route::get("en/test",function(){
+Route::get("test",function(){
     return \packdemotest\bleh\Bleh::saySomething();
 });
