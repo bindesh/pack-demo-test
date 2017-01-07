@@ -1,5 +1,5 @@
 {
-    "name": "test/src",
+    "name": "test",
     "description": "Demo package for Module Install.",
     "type": "library",
     "keywords": ["laravel", "demo"],
