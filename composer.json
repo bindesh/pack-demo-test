@@ -9,11 +9,8 @@
             "email": "bindeshpandya.iipl@gmail.com"
         }
     ],
-    "autoload-dev": {
-        "classmap": [
-            "src/Bleh.php"
-        ]
-    },
+    "minimum-stability": "stable",
+    "require": {},
     "autoload": {
         "psr-4": {
             "test\\Bleh\\": "src/"
