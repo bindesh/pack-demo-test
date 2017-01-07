@@ -12,6 +12,11 @@
     ],
     "minimum-stability": "stable",
     "require": {},
+     "autoload-dev": {
+        "classmap": [
+            "src/Bleh"
+        ]
+    },
     "autoload": {
         "psr-4": {
             "test\\Bleh\\": "src/"
